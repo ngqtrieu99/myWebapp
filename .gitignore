@@ -1,0 +1,4 @@
+\obj
+*.targets
+*.props
+\.vscode
